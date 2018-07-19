@@ -1,6 +1,6 @@
 # Moklet-SIUNIV
 
-SIUNIV Merupakan web penyimpan data yang dapan menyimpan berupa data Sekolah dan Universitas di web ini memiliki 2 fitur antara lain menambahkan dan melihat data. Silahkan download file mentahnya jika ingin menggunakan mohon maaf saya tidak menyediakan file database-nya jadi silahkan di buat sendiri ya!
+SIUNIV Merupakan web penyimpan data yang dapat menyimpan berupa data Sekolah dan Universitas di web ini memiliki 2 fitur antara lain menambahkan dan melihat data. Silahkan download file mentahnya jika ingin menggunakan mohon maaf saya tidak menyediakan file database-nya jadi silahkan di buat sendiri ya!
 
 ## Application Mock-Up
 
@@ -20,5 +20,5 @@ SIUNIV Merupakan web penyimpan data yang dapan menyimpan berupa data Sekolah dan
 * **Galih Putra Windawan** - *Software Engineer* - [galihputra26](https://github.com/galihputra26)
 
 ## More Info
-* My instagram : galih_et (https://www.instagram.com/galih_et)
+* instagram : galih_et (https://www.instagram.com/galih_et)
 * LinkedIn     : Galih Putra Windawan (https://www.linkedin.com/in/galih-putra-w-37973b154/)
