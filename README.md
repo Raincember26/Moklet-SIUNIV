@@ -17,7 +17,7 @@ SIUNIV Merupakan web penyimpan data yang dapan menyimpan berupa data Sekolah dan
 <img src="https://github.com/galihputra26/Moklet-SIUNIV/blob/master/Asset%20Gallery/Read%20Data%20Matakuliah.png?raw=true" width="256">
 
 ## Created By
-* Galih Putra Windawan
+* **Galih Putra Windawan** - *Software Engineer* - [galihputra26](https://github.com/galihputra26)
 
 ## More Info
 * My instagram : galih_et (https://www.instagram.com/galih_et)
