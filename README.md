@@ -21,4 +21,4 @@ SIUNIV Merupakan web penyimpan data yang dapat menyimpan berupa data Sekolah dan
 
 ## More Info
 * instagram : galih_et (https://www.instagram.com/galih_et)
-* LinkedIn     : Galih Putra Windawan (https://www.linkedin.com/in/galih-putra-w-37973b154/)
+* LinkedIn     : Galih Putra Windawan (https://www.linkedin.com/in/galihputra26/)
